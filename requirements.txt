@@ -1,6 +1,5 @@
 streamlit
 bz2file
-pickle
 requests
 streamlit_lottie
 opencv-python
