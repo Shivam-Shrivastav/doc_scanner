@@ -1,0 +1,11 @@
+streamlit
+bz2file
+pickle
+requests
+streamlit_lottie
+opencv-python
+numpy
+Pillow
+pytesseract
+transformers
+torchvision
